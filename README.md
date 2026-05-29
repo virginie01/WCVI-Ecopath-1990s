@@ -34,20 +34,10 @@ The model represents the marine ecosystem of the West Coast of Vancouver Island 
 The WCVI is a productive coastal upwelling ecosystem influenced by seasonal wind-driven upwelling, ocean circulation, and strong bottom-up trophic linkages. The region supports commercially important fisheries and diverse marine communities including forage fish, groundfish, marine mammals, and seabirds.
 
 ## Repository Contents
-``` 
-├── model/ 
-│ └── WCVI_Ecopath.ewemdb 
-│ 
-├── documentation/ 
-│ ├── thesis/ 
-│ ├── figures/ 
-│ └── supplementary_material/
-│ 
-├── metadata/ 
-│ └── model_metadata.xlsx 
-│ 
-├── LICENSE 
-├── CITATION.cff 
+```
+├── study_area_map.png
+├── WCVI_Ecopath.EwEmdb
+├── LICENSE  
 └── README.md
 ```
 
