@@ -1,1 +1,1 @@
-This folder contains the Ecopath model files.
+This folder contains the Ecopath model file.
