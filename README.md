@@ -1,5 +1,6 @@
 # WCVI Ecopath
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20469726.svg)](https://doi.org/10.5281/zenodo.20469726)
+
 A balanced Ecopath model of the West Coast of Vancouver Island (WCVI) ecosystem representing average ecosystem conditions during the early 1990s.
 
 This repository contains the standalone Ecopath model developed as part of my PhD research at the Institute for the Oceans and Fisheries, University of British Columbia. The model represents the food web structure of the WCVI coastal upwelling ecosystem and was developed as the higher-trophic-level component of the WCVI-E2E end-to-end ecosystem modelling framework.
